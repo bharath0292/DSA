@@ -1,4 +1,4 @@
-pub fn main() {
+pub fn _main() {
     // variable declaration
     let _name = "John";
     let mut _age = 25;

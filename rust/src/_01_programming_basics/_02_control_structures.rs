@@ -1,5 +1,5 @@
 // If else statement
-fn check_numbers(x: i32) {
+fn _check_numbers(x: i32) {
     if x > 0 {
         println!("Positive");
     } else if x < 0 {
@@ -12,7 +12,7 @@ fn check_numbers(x: i32) {
     let _result = if x > 0 { "positve" } else { "non-positive" };
 }
 
-fn loop_examples() {
+fn _loop_examples() {
     // loop infinite
     let mut counter = 0;
     loop {
@@ -46,9 +46,4 @@ fn loop_examples() {
         2 => println!("Tuesday"),
         _ => println!("Other day"),
     }
-}
-
-pub fn main() {
-    loop_examples();
-    check_numbers(5);
 }
