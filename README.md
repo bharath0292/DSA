@@ -1,12 +1,32 @@
-# DSA Tutorial in Rust and Go
+# DSA Tutorial
 
 This is a DSA (Data Structures and Algorithms) tutorial implemented in both **Rust** and **Go**.
 
 ## Topics Covered
 
-- Programming Basics
-  1. Variables
-  2. Control Structures
-  3. Functions
-  4. Basic I/O
-  5. Big O Notation
+### Programming Basics
+
+1. Variables
+  - [Rust](./rust/src/_01_programming_basics/_01_variables.rs)
+  - [Go](./go/1_programingBasics/1_variables.go)
+2. Control Structures
+  - [Rust](./rust/src/_01_programming_basics/_02_control_structures.rs)
+  - [Go](./go/1_programingBasics/2_controlStructures.go)
+3. Functions
+  - [Rust](./rust/src/_01_programming_basics/_03_functions.rs)
+  - [Go](./go/1_programingBasics/3_functions.go)
+4. Basic I/O
+  - [Rust](./rust/src/_01_programming_basics/_04_basic_io.rs)
+  - [Go](./go/1_programingBasics/4_basicIO.go)
+5. Big O Notation
+  - [Rust](./rust/src/_01_programming_basics/_05_big_o_notation)
+  - [Go](./go/1_programingBasics/5_bigONotation)
+
+### Basic Data Structures
+
+1. Arrays
+    - [Rust](./rust/src/_02_basic_data_structures/_01_arrays/_01_arrays.rs)
+    - [Go](./go/2_basicDataStructures/1_arrays/1_arrays.go)
+    1. Sliding Window
+      - [Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patters/_01_sliding_window.rs)
+      - [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatters/1_slidingWindow.go)
