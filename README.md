@@ -15,6 +15,7 @@ This is a DSA (Data Structures and Algorithms) tutorial implemented in both **Ru
 ### Basic Data Structures
 
 1. Arrays ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_01_arrays.rs), [Go](./go/2_basicDataStructures/1_arrays/1_arrays.go))
-    1. Sliding Window ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patters/_01_sliding_window.rs), [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatters/1_slidingWindow.go))
-    2. Two-Pointer technique ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patters/_02_two_pointers.rs), [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatters/2_twoPointers.go))
-    3. Prefix Sum Pattern ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patters/_03_prefix_sum.rs), [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatters/3_prefixSum.go))
+    1. Sliding Window ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patterns/_01_sliding_window.rs), [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatterns/1_slidingWindow.go))
+    2. Two-Pointer technique ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patterns/_02_two_pointers.rs), [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatterns/2_twoPointers.go))
+    3. Prefix Sum Pattern ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patterns/_03_prefix_sum.rs), [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatterns/3_prefixSum.go))
+    4. Kadane's Algorithm ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patterns/_04_kadane_algorithm.rs), [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatterns/4_kadaneAlgorithm.go))
