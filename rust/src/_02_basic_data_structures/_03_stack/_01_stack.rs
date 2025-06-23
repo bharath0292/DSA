@@ -1,28 +1,25 @@
-// Generic Stack implementatio
+// Generic Stack implementation
 #[allow(dead_code)]
-struct Stack<T> {
+#[derive(Clone)]
+pub struct Stack<T> {
     items: Vec<T>,
 }
 
 #[allow(dead_code)]
 impl<T> Stack<T> {
-    fn new() -> Self {
+    pub fn new() -> Self {
         Stack { items: Vec::new() }
     }
 
-    fn push(&mut self, item: T) {
+    pub fn push(&mut self, item: T) {
         self.items.push(item);
     }
 
-    fn peek(&self) -> Option<&T> {
-        self.items.last()
+    pub fn pop(&mut self) -> Option<T> {
+        self.items.pop()
     }
 
-    fn is_empty(self) -> bool {
+    pub fn is_empty(&self) -> bool {
         self.items.is_empty()
-    }
-
-    fn size(&self) -> usize {
-        self.items.len()
     }
 }
