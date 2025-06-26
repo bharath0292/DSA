@@ -15,10 +15,13 @@ func IsBalanced(expr string) bool {
 				return false
 			}
 
-			top, _ := stack.Pop()
-			if !isMatching(top.(rune), char) {
-				return false
+			top := stack.Pop()
+			if top != nil {
+				if !isMatching(top.(rune), char) {
+					return false
+				}
 			}
+
 		}
 	}
 
