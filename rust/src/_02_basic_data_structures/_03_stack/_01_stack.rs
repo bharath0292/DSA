@@ -19,6 +19,10 @@ impl<T> Stack<T> {
         self.items.pop()
     }
 
+    pub fn peek(&mut self) -> Option<&T> {
+        self.items.last()
+    }
+
     pub fn is_empty(&self) -> bool {
         self.items.is_empty()
     }

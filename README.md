@@ -21,4 +21,5 @@ This is a DSA (Data Structures and Algorithms) tutorial implemented in both **Ru
     4. Kadane's Algorithm ([Rust](./rust/src/_02_basic_data_structures/_01_arrays/_02_advanced_patterns/_04_kadane_algorithm.rs), [Go](./go/2_basicDataStructures/1_arrays/2_advancedPatterns/4_kadaneAlgorithm.go))
 2. Strings ([Rust](./rust/src/_02_basic_data_structures/_02_strings/_01_strings.rs), [Go](./go/2_basicDataStructures/2_strings/1_strings.go))
 3. Stack ([Rust](./rust/src/_02_basic_data_structures/_03_stack/_01_stack.rs), [Go](./go/2_basicDataStructures/3_stack/1_stack.go))
-    1. Balanced Parathesis Checker ([Rust](./rust/src/_02_basic_data_structures/_03_stack/_02_advanced_patterns/_01_balanced_parentheses.rs), [Go](./go/2_basicDataStructures/3_stack/2_advancedPatterns/balancedParentheses.go))
+    1. Balanced Parentheses Checker ([Rust](./rust/src/_02_basic_data_structures/_03_stack/_02_advanced_patterns/_01_balanced_parentheses.rs), [Go](./go/2_basicDataStructures/3_stack/2_advancedPatterns/1_balancedParentheses.go))
+    2. Infix to Postfix ([Rust](./rust/src/_02_basic_data_structures/_03_stack/_02_advanced_patterns/_02_infix_to_postfix.rs), [Go](./go/2_basicDataStructures/3_stack/2_advancedPatterns/2_infixToPostfix.go))
