@@ -27,4 +27,5 @@ This is a DSA (Data Structures and Algorithms) tutorial implemented in both **Ru
 4. Queue
    - Types
    1. Basic Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_01_queue.rs), [Go](./go/2_basicDataStructures/4_queue/1_queue.go))
-   2. Circular Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_01_queue.rs), [Go](./go/2_basicDataStructures/4_queue/1_queue.go))
+   2. Circular Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_02_circular_queue.rs), [Go](./go/2_basicDataStructures/4_queue/2_circularQueue.go))
+   3. Priority Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_03_priority_queue.rs), [Go](./go/2_basicDataStructures/4_queue/3_priorityQueue.go))
