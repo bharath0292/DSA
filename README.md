@@ -24,8 +24,7 @@ This is a DSA (Data Structures and Algorithms) tutorial implemented in both **Ru
    1. Balanced Parentheses Checker ([Rust](./rust/src/_02_basic_data_structures/_03_stack/_02_advanced_patterns/_01_balanced_parentheses.rs), [Go](./go/2_basicDataStructures/3_stack/2_advancedPatterns/1_balancedParentheses.go))
    2. Infix to Postfix ([Rust](./rust/src/_02_basic_data_structures/_03_stack/_02_advanced_patterns/_02_infix_to_postfix.rs), [Go](./go/2_basicDataStructures/3_stack/2_advancedPatterns/2_infixToPostfix.go))
    3. Stack based calculator ([Rust](./rust/src/_02_basic_data_structures/_03_stack/_02_advanced_patterns/_03_stack_calculator.rs), [Go](./go/2_basicDataStructures/3_stack/2_advancedPatterns/3_stackCalculator.go))
-4. Queue
-   - Types
-   1. Basic Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_01_queue.rs), [Go](./go/2_basicDataStructures/4_queue/1_queue.go))
-   2. Circular Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_02_circular_queue.rs), [Go](./go/2_basicDataStructures/4_queue/2_circularQueue.go))
-   3. Priority Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_03_priority_queue.rs), [Go](./go/2_basicDataStructures/4_queue/3_priorityQueue.go))
+4. Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_01_queue.rs), [Go](./go/2_basicDataStructures/4_queue/1_queue.go))
+   1. Circular Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_02_advanced_patterns/_01_circular_queue.rs), [Go](./go/2_basicDataStructures/4_queue/2_advancedPatterns/1_circularQueue.go))
+   2. Priority Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_02_advanced_patterns/_02_priority_queue.rs), [Go](./go/2_basicDataStructures/4_queue/2_advancedPatterns/2_priorityQueue.go))
+   3. Double Ended Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_02_advanced_patterns/_03_double_ended_queue.rs), [Go](./go/2_basicDataStructures/4_queue/2_advancedPatterns/3_doubleEnded.go))
