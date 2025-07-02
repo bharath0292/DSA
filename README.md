@@ -29,3 +29,5 @@ This is a DSA (Data Structures and Algorithms) tutorial implemented in both **Ru
    2. Priority Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_02_advanced_patterns/_02_priority_queue.rs), [Go](./go/2_basicDataStructures/4_queue/2_advancedPatterns/2_priorityQueue.go))
    3. Double Ended Queue ([Rust](./rust/src/_02_basic_data_structures/_04_queue/_02_advanced_patterns/_03_double_ended_queue.rs), [Go](./go/2_basicDataStructures/4_queue/2_advancedPatterns/3_doubleEnded.go))
 5. Linked Lists ([Rust](./rust/src/_02_basic_data_structures/_05_linked_lists/), [Go](./go/2_basicDataStructures/5_linkedLists/))
+   1. Singly Linked Lists ([Rust](./rust/src/_02_basic_data_structures/_05_linked_lists/_01_single_linked_list.rs), [Go](go/2_basicDataStructures/5_linkedLists/1_singleLinkedLists.go))
+   2. Doubly Linked Lists ([Rust](./rust/src/_02_basic_data_structures/_05_linked_lists/_02_double_linked_list.rs), [Go](go/2_basicDataStructures/5_linkedLists/2_doubleLinkedLists.go))

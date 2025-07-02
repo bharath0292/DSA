@@ -1,5 +1,6 @@
 use std::{cmp::Ordering, collections::BinaryHeap};
 
+#[allow(dead_code)]
 #[derive(Debug)]
 struct PriorityItem<T> {
     value: T,
@@ -26,10 +27,12 @@ impl<T> PartialOrd for PriorityItem<T> {
     }
 }
 
+#[allow(dead_code)]
 struct PriorityQueue<T> {
     heap: BinaryHeap<PriorityItem<T>>,
 }
 
+#[allow(dead_code)]
 impl<T> PriorityQueue<T> {
     pub fn new() -> Self {
         PriorityQueue {

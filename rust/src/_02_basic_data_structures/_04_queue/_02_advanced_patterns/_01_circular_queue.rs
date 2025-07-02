@@ -1,5 +1,3 @@
-use std::fmt::Error;
-
 #[allow(dead_code)]
 struct CircularQueue<T> {
     items: Vec<Option<T>>,
@@ -8,6 +6,7 @@ struct CircularQueue<T> {
     size: usize,
 }
 
+#[allow(dead_code)]
 impl<T> CircularQueue<T>
 where
     T: Clone,

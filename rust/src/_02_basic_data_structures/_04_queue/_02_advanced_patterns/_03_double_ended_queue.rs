@@ -1,8 +1,11 @@
 use std::collections::VecDeque;
 
+#[allow(dead_code)]
 struct Dequeu<T> {
     items: VecDeque<T>,
 }
+
+#[allow(dead_code)]
 impl<T> Dequeu<T> {
     fn new() -> Self {
         Dequeu {
