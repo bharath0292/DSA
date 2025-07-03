@@ -3,3 +3,4 @@ pub mod _02_strings;
 pub mod _03_stack;
 pub mod _04_queue;
 pub mod _05_linked_lists;
+pub mod _06_hash_table;
