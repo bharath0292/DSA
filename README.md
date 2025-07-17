@@ -31,4 +31,8 @@ This is a DSA (Data Structures and Algorithms) tutorial implemented in both **Ru
 5. Linked Lists ([Rust](./rust/src/_02_basic_data_structures/_05_linked_lists/), [Go](./go/2_basicDataStructures/5_linkedLists/))
    1. Singly Linked Lists ([Rust](./rust/src/_02_basic_data_structures/_05_linked_lists/_01_single_linked_list.rs), [Go](go/2_basicDataStructures/5_linkedLists/1_singleLinkedLists.go))
    2. Doubly Linked Lists ([Rust](./rust/src/_02_basic_data_structures/_05_linked_lists/_02_double_linked_list.rs), [Go](go/2_basicDataStructures/5_linkedLists/2_doubleLinkedLists.go))
-5. Hash Table ([Rust](./rust/src/_02_basic_data_structures/_06_hash_table/_01_basic_hash.rs), [Go](./go/2_basicDataStructures/6_hashTable/1_basicHash.go))
+6. Hash Table ([Rust](./rust/src/_02_basic_data_structures/_06_hash_table/_01_basic_hash.rs), [Go](./go/2_basicDataStructures/6_hashTable/1_basicHash.go))
+
+### Advanced Data Structures
+
+1. Trees ([Rust](./rust/src/_03_advanced_data_structures/_01_trees/_01_basic.rs), [Go](./go/3_advancedDataStructures/1_trees/1_basic.go), [Python](./python/3_advanced_data_strutures/trees/1_basic.py))
