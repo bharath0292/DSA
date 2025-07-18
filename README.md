@@ -35,4 +35,5 @@ This is a DSA (Data Structures and Algorithms) tutorial implemented in both **Ru
 
 ### Advanced Data Structures
 
-1. Trees ([Rust](./rust/src/_03_advanced_data_structures/_01_trees/_01_basic.rs), [Go](./go/3_advancedDataStructures/1_trees/1_basic.go), [Python](./python/3_advanced_data_strutures/trees/1_basic.py))
+1. Trees
+   1. Generic Tree([Rust](./rust/src/_03_advanced_data_structures/_01_trees/_01_generic/_01_node.rs), [Go](./go/3_advancedDataStructures/1_trees/1_generic/1_node.go), [Python](./python/_3advanced_data_strutures/_1trees/_1generic/_1node.py))
